@@ -38,4 +38,4 @@ Contributions to MedAssistant are welcome! If you have suggestions for improveme
 
 ## License
 
-MedAssistant is released under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
+MedAssistant is released under the [MIT License](LICENSE).

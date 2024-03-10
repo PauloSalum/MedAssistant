@@ -1,8 +1,10 @@
 {
+  "codeowners": [
+    "@paulosalum"
+  ],
+  "dependencies": [],
+  "documentation": "Readme.md",
   "domain": "medassistant",
   "name": "MedAssistant",
-  "documentation": "https://example.com",
-  "dependencies": [],
-  "codeowners": ["@seuusuario"],
   "version": "1.0"
 }

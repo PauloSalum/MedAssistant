@@ -1,0 +1,8 @@
+{
+  "domain": "medassistant",
+  "name": "MedAssistant",
+  "documentation": "https://example.com",
+  "dependencies": [],
+  "codeowners": ["@seuusuario"],
+  "version": "1.0"
+}
